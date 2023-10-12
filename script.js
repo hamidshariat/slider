@@ -1,3 +1,4 @@
+
 new slider({
     el : document.querySelector('#sliders'),
     slideClass : 'slider',
